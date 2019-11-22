@@ -8,7 +8,7 @@
 
 
 
-🌍   [English](https://www.npmjs.com/package/easy-story-hooks) | [简体中文](https://github.com/xiaohuwei/easy-story-hooks)
+🌍   [English](https://yarnpkg.com/zh-Hans/package/easy-story-hooks) | [简体中文](https://github.com/xiaohuwei/easy-story-hooks)
 
 
 
