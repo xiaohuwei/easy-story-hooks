@@ -31,6 +31,10 @@
 ~~~node
 npm i easy-story-hooks -S
 ~~~
+或者
+~~~node
+cnpm i easy-story-hooks -S
+~~~
 
 ## 在您的React项目中
 
