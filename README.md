@@ -35,6 +35,10 @@ npm i easy-story-hooks -S
 ~~~node
 cnpm i easy-story-hooks -S
 ~~~
+或者
+~~~node
+yarn add easy-story-hooks
+~~~
 
 ## 在您的React项目中
 
